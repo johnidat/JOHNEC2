@@ -1,0 +1,1 @@
+insert into usuarios(usuario,password,rol) values ('vendedor','$2a$12$XaEa9p/9OZNZvUewltLRrus9LEHXrU20pA67cpEsRjyqVxBGF63M2','ROLE_ADMIN')
